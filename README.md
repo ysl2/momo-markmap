@@ -76,9 +76,11 @@
 
 ##
 
+- abominate
+- abolition
 - aversion
-- cupidity
 - avaricious
+- cupidity
 
 ##
 
@@ -231,3 +233,69 @@
 - fluster
 - flour
 - flout
+
+##
+
+- dare
+- dire
+- imperative
+- impudent
+- imprudent
+- pudency
+- pudendum
+
+##
+
+- cloying
+- cosset
+
+##
+
+- solicit
+- solitude
+- solicitous
+- solidary
+- solidarity
+
+##
+
+- gregarious
+- gratuitous
+- felicitous
+- germane
+
+##
+
+- passage
+- presage
+
+##
+
+- shrill
+- spiky
+- poignant
+- trenchant
+- merchant
+
+##
+
+- recession
+- stagnant
+- stalemate
+
+##
+
+- allergic
+- allergy
+- allegiance
+
+##
+
+- supple
+- supplement
+
+##
+
+- follow
+- fallow
+- callow
