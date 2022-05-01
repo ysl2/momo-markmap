@@ -9,6 +9,10 @@
 
 -   persecute
 -   prosecute
+-   prosecutor
+-   plaintiff
+-   respondent
+-   defendant
 
 ##
 
@@ -66,6 +70,7 @@
 
 ##
 
+-   concoct
 -   concord
 -   cortical
 
@@ -89,6 +94,9 @@
 
 ##
 
+-   befuddle
+-   buffalo
+-   baffle
 -   huddle
 -   hurdle
 
@@ -192,6 +200,7 @@
 ##
 
 -   self-defeating
+-   self-righteous
 -   self-effacing
 
 ##
@@ -253,8 +262,8 @@
 
 ##
 
--   solicit
 -   solitude
+-   solicit
 -   solicitous
 -   solidary
 -   solidarity
@@ -385,11 +394,6 @@
 
 ##
 
--   self-righteous
--   self-effacing
-
-##
-
 -   fidgety
 -   fidelity
 
@@ -482,6 +486,7 @@
 
 -   petty
 -   pity
+-   pithy
 
 ##
 
@@ -524,3 +529,157 @@
 
 -   remiss
 -   reminiscent
+
+##
+
+-   abide
+-   abiding
+
+##
+
+-   achromatic
+-   anachronistic
+
+##
+
+-   seminal
+-   inseminate
+-   disseminate
+
+##
+
+-   transit
+-   transient
+    -   transience
+    -   transiently
+    -   transition
+    -   transitional
+    -   transitory
+
+##
+
+-   rail
+-   raillery
+
+##
+
+-   contrive
+-   conspire
+-   conspicuous
+-   ambiguous
+
+##
+
+-   exploration
+-   explosion
+
+##
+
+-   ingenious
+-   indigenous
+-   indignation
+-   prodigious
+-   perfidious
+-   ingenuous
+
+##
+
+-   censorship
+-   censor
+-   census
+
+##
+
+-   exotic
+-   quixotic
+
+##
+
+-   potent
+-   patent
+
+##
+
+-   regime
+-   regiment
+
+##
+
+-   inexorable
+-   exorable
+-   exorbitant
+
+##
+
+-   malpractice
+-   malnourished
+
+##
+
+-   espouse
+-   spouse
+
+##
+
+-   skip
+-   skim
+-   skid
+
+##
+
+-   offspring
+-   off-putting
+
+##
+
+-   dominant
+-   domestic
+-   dormant
+
+##
+
+-   bump
+-   debunk
+
+##
+
+-   ambient
+-   ancillary
+
+##
+
+-   straggle
+-   strangle
+-   strange
+
+##
+
+-   hiatus
+-   hideous
+
+##
+
+-   glean
+-   gleam
+
+##
+
+-   gullible
+-   guffaw
+
+##
+
+- sponge
+- sabotage
+
+##
+
+- debacle
+- bungle
+
+##
+
+- penalty
+- pension
+- prisoner
+- pensioner
