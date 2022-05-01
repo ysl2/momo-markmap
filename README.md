@@ -2,300 +2,525 @@
 
 ##
 
-- accolade
-- accrete
+-   accolade
+-   accrete
 
 ##
 
-- persecute
-- prosecute
+-   persecute
+-   prosecute
 
 ##
 
-- fixture
-- mixture
-- texture
+-   fixture
+-   mixture
+-   texture
 
 ##
 
-- inundate
-- dole
-- indolence
+-   inundate
+-   dole
+-   indolence
 
 ##
 
-- cigar
-- vineger
-- valiant
+-   cigar
+-   vinegar
+-   valiant
 
 ##
 
-- pandemonium
-- pedantic
-- prosaic
-- endemic
-- pandemic
+-   pandemonium
+-   pedantic
+-   prosaic
+-   endemic
+-   pandemic
 
 ##
 
-- lull
-- lush
-- lure
-- lurk
+-   lull
+-   lush
+-   lure
+-   lurk
 
 ##
 
-- captive
-- captain
-- caption
+-   captive
+-   captain
+-   caption
 
 ##
 
-- stress
-- distress
+-   stress
+-   distress
 
 ##
 
-- submissive
-- subordinate
+-   submissive
+-   subordinate
 
 ##
 
-- superfluous
-- supercilious
+-   superfluous
+-   supercilious
 
 ##
 
-- concord
-- cortical
+-   concord
+-   cortical
 
 ##
 
-- repel
-- dispute
+-   repel
+-   dispute
 
 ##
 
-- abominate
-- abolition
-- aversion
-- avaricious
-- cupidity
+-   abominate
+-   abolition
+-   aversion
+-   avaricious
+-   cupidity
 
 ##
 
-- quotation
-- quotidian
+-   quotation
+-   quotidian
 
 ##
 
-- huddle
-- hurdle
+-   huddle
+-   hurdle
 
 ##
 
-- tantalize
-- tantamount
+-   tantalize
+-   tantamount
 
 ##
 
-- click
-- clack
+-   click
+-   clack
 
 ##
 
-- exterminate
-- extenuate
+-   exterminate
+-   extenuate
 
 ##
 
-- prevaricate
-- variegate
+-   prerogative
+-   pejorative
+-   prevaricate
+-   variegate
 
 ##
 
-- accountable
-- reprehensible
+-   culpable
+-   accountable
+-   reprehensible
 
 ##
 
-- vehement
-- somnolent
+-   vehement
+-   somnolent
 
 ##
 
-- hypercritical
-- hypocritical
-- hypothetical
+-   hypercritical
+-   hypocritical
+-   hypothetical
 
 ##
 
-- brandy
-- blind
-- bland
+-   brandy
+-   blind
+-   bland
 
 ##
 
-- seamy
-- giddy
+-   seamy
+-   giddy
 
 ##
 
-- terrible
-- territory
-- terror
+-   terrible
+-   territory
+-   terror
 
 ##
 
-- tawdary
-- gawky
-- untoward
-- toward
-- tow
+-   tawdry
+-   gawky
+-   untoward
+-   toward
+-   tow
 
 ##
 
-- lucid
-- limpid
-- pellucid
+-   lucid
+-   pellucid
 
 ##
 
-- flannel
-- finale
+-   flannel
+-   finale
 
 ##
 
-- cow
-- coy
+-   cow
+-   coy
 
 ##
 
-- ornament
-- omniscient
-- reticent
-- iridescent
-- iris
+-   ornament
+-   omniscient
+-   reticent
+-   iridescent
+-   iris
 
 ##
 
-- nephew
-- nepotistic
+-   nephew
+-   nepotistic
 
 ##
 
-- defy
-- deify
+-   defy
+-   deify
 
 ##
 
-- self-defeating
-- self-effacing
+-   self-defeating
+-   self-effacing
 
 ##
 
-- equal
-- equity
-- equate
-- equation
-- equality
-- quality
+-   equal
+-   equity
+-   equate
+-   equation
+-   equality
+-   quality
 
 ##
 
-- atop
-- aloof
-- loof
-- roof
+-   atop
+-   aloof
+-   loof
+-   roof
 
 ##
 
-- conversion
-- convent
-- convention
-- conviction
-- conservation
+-   conversion
+-   convent
+-   convention
+-   conviction
+-   conservation
 
 ##
 
-- suffrage
-- suffer
-- sulfur
-- sulphur
+-   suffrage
+-   suffer
+-   sulfur
+-   sulphur
 
 ##
 
-- confuse
-- obfuscate
+-   confuse
+-   obfuscate
 
 ##
 
-- fluster
-- flour
-- flout
+-   fluster
+-   flour
+-   flout
 
 ##
 
-- dare
-- dire
-- imperative
-- impudent
-- imprudent
-- pudency
-- pudendum
+-   dire
+    -   dare
+-   imperative
+    -   impudent
+    -   imprudent
+    -   pudency
+    -   pudendum
 
 ##
 
-- cloying
-- cosset
+-   cloying
+-   cosset
 
 ##
 
-- solicit
-- solitude
-- solicitous
-- solidary
-- solidarity
+-   solicit
+-   solitude
+-   solicitous
+-   solidary
+-   solidarity
 
 ##
 
-- gregarious
-- gratuitous
-- felicitous
-- germane
+-   germane
+-   gregarious
+-   gratitude
+    -   gratify
+    -   altitude
+    -   latitude
+-   gratuitous
+-   felicitous
 
 ##
 
-- passage
-- presage
+-   passage
+-   presage
 
 ##
 
-- shrill
-- spiky
-- poignant
-- trenchant
-- merchant
+-   shrill
+-   spiky
+    -   spire
+    -   respire
+    -   respiration
+-   poignant
+-   trenchant
+-   merchant
 
 ##
 
-- recession
-- stagnant
-- stalemate
+-   recession
+-   stagnant
+-   stalemate
 
 ##
 
-- allergic
-- allergy
-- allegiance
+-   allergic
+-   allergy
+-   allegiance
 
 ##
 
-- supple
-- supplement
+-   supple
+-   supplement
 
 ##
 
-- follow
-- fallow
-- callow
+-   follow
+-   fallow
+-   callow
+
+##
+
+-   redolent
+-   redundancy
+
+##
+
+-   goal
+-   gaol
+-   prison
+
+##
+
+-   intelligible
+-   intelligent
+
+##
+
+-   wield
+-   weld
+-   wilt
+
+##
+
+-   apparent
+-   apparently
+
+##
+
+-   pot-bellied
+-   much-ballyhooed
+
+##
+
+-   head
+-   herd
+-   heard
+-   herb
+
+##
+
+-   quadrant
+-   quadratic
+    -   monomial
+
+##
+
+-   surround
+-   surrender
+
+##
+
+-   explicit
+-   exquisite
+-   exquisitely
+
+##
+
+-   lottery
+-   lotion
+
+##
+
+-   cumber
+-   cumbersome
+-   encumber
+-   cucumber
+-   incumbent
+
+##
+
+-   staple
+-   stable
+
+##
+
+-   self-righteous
+-   self-effacing
+
+##
+
+-   fidgety
+-   fidelity
+
+##
+
+-   substantial
+-   submissive
+
+##
+
+-   leather
+-   lethargic
+
+##
+
+-   contempt
+-   contemplation
+
+##
+
+-   pecunious
+-   impecunious
+
+##
+
+-   rule
+-   rue
+
+##
+
+-   siege
+-   seize
+
+##
+
+-   mesh
+-   smash
+-   mash
+
+##
+
+-   feeble
+-   feckless
+-   reckless
+
+##
+
+-   interpretation
+-   diction
+
+##
+
+-   tenacious
+-   tenuous
+
+##
+
+-   hatred
+-   kindred
+
+##
+
+-   patron
+-   patronize
+-   patriotism
+
+##
+
+-   banquet
+-   burlesque
+
+##
+
+-   diverse
+    -   diversion
+-   divert
+    -   diversity
+
+##
+
+-   effortless
+-   ineffable
+
+##
+
+-   salubrious
+-   deleterious
+
+##
+
+-   petty
+-   pity
+
+##
+
+-   plead
+-   pledge
+
+##
+
+-   investigate
+-   instigate
+-   stigma
+
+##
+
+-   acupuncture
+-   punctual
+-   punctuation
+
+##
+
+-   tasty
+-   testy
+
+##
+
+-   rapport
+-   rapprochement
+
+##
+
+-   demography
+-   democracy
+
+##
+
+-   desolate
+-   obsolete
+
+##
+
+-   remiss
+-   reminiscent
