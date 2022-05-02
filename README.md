@@ -4,6 +4,7 @@
 
 -   accolade
 -   accrete
+-   austere
 
 ##
 
@@ -30,15 +31,21 @@
 
 -   cigar
 -   vinegar
+-   vigilant
 -   valiant
+-   silent
+-   salient
 
 ##
 
 -   pandemonium
 -   pedantic
--   prosaic
--   endemic
 -   pandemic
+-   prosaic
+-   prophetic
+-   prophylactic
+-   prostrate
+-   procurement
 
 ##
 
@@ -57,6 +64,10 @@
 
 -   stress
 -   distress
+    -   dismiss
+    -   demise
+-   discourse
+-   course
 
 ##
 
@@ -65,6 +76,7 @@
 
 ##
 
+-   spurious
 -   superfluous
 -   supercilious
 
@@ -73,6 +85,8 @@
 -   concoct
 -   concord
 -   cortical
+-   cordial
+-   cordiality
 
 ##
 
@@ -202,6 +216,7 @@
 -   self-defeating
 -   self-righteous
 -   self-effacing
+-   self-abasement
 
 ##
 
@@ -251,6 +266,10 @@
     -   dare
 -   imperative
     -   impudent
+        -   temerity
+        -   tedious
+            -   fastidious
+        -   timidity
     -   imprudent
     -   pudency
     -   pudendum
@@ -270,6 +289,7 @@
 
 ##
 
+-   gramme
 -   germane
 -   gregarious
 -   gratitude
@@ -278,6 +298,8 @@
     -   latitude
 -   gratuitous
 -   felicitous
+    -   felicity
+    -   facility
 
 ##
 
@@ -316,6 +338,7 @@
 
 -   follow
 -   fallow
+    -   plow
 -   callow
 
 ##
@@ -328,6 +351,9 @@
 -   goal
 -   gaol
 -   prison
+    -   poisonous
+    -   poise
+    -   noxious
 
 ##
 
@@ -519,6 +545,8 @@
 
 -   demography
 -   democracy
+-   democrat
+-   demarcate
 
 ##
 
@@ -528,6 +556,8 @@
 ##
 
 -   remiss
+-   remit
+    -   unremitting
 -   reminiscent
 
 ##
@@ -567,6 +597,9 @@
 -   conspire
 -   conspicuous
 -   ambiguous
+-   ambivalent
+-   aberration
+-   abbreviate
 
 ##
 
@@ -576,11 +609,14 @@
 ##
 
 -   ingenious
--   indigenous
--   indignation
--   prodigious
--   perfidious
 -   ingenuous
+-   indigenous
+    -   indignation
+-   prodigious
+-   propitious
+    -   propitiate
+-   perfidious
+-   fealty
 
 ##
 
@@ -669,17 +705,246 @@
 
 ##
 
-- sponge
-- sabotage
+-   sponge
+-   sabotage
 
 ##
 
-- debacle
-- bungle
+-   debacle
+-   bungle
 
 ##
 
-- penalty
-- pension
-- prisoner
-- pensioner
+-   penalty
+-   pension
+-   prisoner
+-   pensioner
+
+##
+
+-   tact
+    -   tactile
+-   trek
+-   tuck
+-   tack
+-   attack
+
+##
+
+-   opposition
+-   oppression
+
+##
+
+-   pant
+-   pants
+
+##
+
+-   cost
+-   coast
+
+##
+
+-   lament
+-   latent
+-   lateral
+
+##
+
+-   appropriate
+-   appropriation
+
+##
+
+-   turmoil
+-   turbulent
+-   tumble
+
+##
+
+-   alloy
+-   allot
+
+##
+
+-   determination
+-   delegate
+-   dedication
+
+##
+
+-   obedience
+-   obeisance
+
+##
+
+-   rod
+-   rob
+
+##
+
+##
+
+-   overlook
+-   oversight
+-   insight
+
+##
+
+-   subsequent
+-   succinct
+
+##
+
+-   proton
+-   neutron
+-   electron
+-   photon
+
+##
+
+-   synthesis
+-   synopsis
+-   synapse
+
+##
+
+-   bracket
+-   barracks
+-   brackish
+
+##
+
+-   venerate
+-   vexation
+
+##
+
+-   bribe
+-   bride
+-   bridle
+-   bundle
+
+##
+
+-   tyrant
+-   tycoon
+
+##
+
+-   conductive
+-   conducive
+
+##
+
+-   deposit
+-   dispose
+-   disposition
+-   divert
+-   avert
+
+##
+
+-   literacy
+    -   literate
+    -   illiterate
+-   literal
+    -   literally
+-   literary
+    -   literature
+
+##
+
+-   tribe
+-   diatribe
+-   diabetes
+
+##
+
+-   occasion
+-   opportunity
+-   opportunistic
+
+##
+
+-   conscious
+-   conscientious
+
+##
+
+-   obviate
+-   oblivious
+-   obliterate
+
+##
+
+-   loath
+-   loathe
+
+##
+
+-   infinity
+-   infinitive
+
+##
+
+-   pathetic
+-   apathetic
+-   sympathetic
+-   enthusiastic
+
+##
+
+-   intricate
+-   intrigue
+
+##
+
+-   calibre
+-   caliber
+    -   cavalier
+-   calibrate
+
+##
+
+-   precautious
+-   precarious
+-   precariously
+
+##
+
+-   speculate
+-   spectacle
+
+##
+
+-   hoary
+-   hoax
+
+##
+
+-   survival
+-   subsistence
+-   surveillance
+
+##
+
+-   manner
+-   manage
+-   menace
+
+##
+
+-   clinic
+-   cliquish
+
+##
+
+-   crumble
+-   crass
+
+##
+
+-   vessel
+-   venal
