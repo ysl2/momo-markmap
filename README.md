@@ -33,6 +33,8 @@
 -   vinegar
 -   vigilant
 -   valiant
+    -   venerate
+    -   vexation
 -   silent
 -   salient
 
@@ -76,14 +78,10 @@
 
 ##
 
--   spurious
--   superfluous
--   supercilious
-
-##
-
 -   concoct
 -   concord
+    -   consilience
+    -   reconcile
 -   cortical
 -   cordial
 -   cordiality
@@ -126,6 +124,7 @@
 
 ##
 
+-   external
 -   exterminate
 -   extenuate
 
@@ -158,6 +157,10 @@
 -   brandy
 -   blind
 -   bland
+-   insipid
+-   tepid
+-   turgid
+-   turtle
 
 ##
 
@@ -264,15 +267,33 @@
 
 -   dire
     -   dare
+-   empirical
 -   imperative
     -   impudent
         -   temerity
+        -   timidity
         -   tedious
             -   fastidious
-        -   timidity
-    -   imprudent
-    -   pudency
-    -   pudendum
+                -   finicky
+            -   supercilious
+                -   spurious
+                -   superfluous
+            -   punctilious
+                -   punctual
+                -   punctuation
+                -   acupuncture
+            -   perfidious
+                -   prodigious
+                -   indigenous
+                    -   indignation
+                    -   ingenious
+                    -   ingenuous
+                -   propitious
+                    -   propitiate
+                -   fealty
+                -   imprudent
+                -   pudency
+                -   pudendum
 
 ##
 
@@ -297,6 +318,10 @@
     -   altitude
     -   latitude
 -   gratuitous
+-   fortuitous
+    -   fortune
+-   garrulous
+    -   granular
 -   felicitous
     -   felicity
     -   facility
@@ -339,6 +364,7 @@
 -   follow
 -   fallow
     -   plow
+    -   pillow
 -   callow
 
 ##
@@ -505,11 +531,6 @@
 
 ##
 
--   salubrious
--   deleterious
-
-##
-
 -   petty
 -   pity
 -   pithy
@@ -524,12 +545,6 @@
 -   investigate
 -   instigate
 -   stigma
-
-##
-
--   acupuncture
--   punctual
--   punctuation
 
 ##
 
@@ -608,18 +623,6 @@
 
 ##
 
--   ingenious
--   ingenuous
--   indigenous
-    -   indignation
--   prodigious
--   propitious
-    -   propitiate
--   perfidious
--   fealty
-
-##
-
 -   censorship
 -   censor
 -   census
@@ -633,6 +636,12 @@
 
 -   potent
 -   patent
+-   parade
+-   paradise
+-   paradigm
+-   pedestrian
+-   heaven
+-   haven
 
 ##
 
@@ -769,8 +778,10 @@
 ##
 
 -   determination
--   delegate
 -   dedication
+-   delegate
+-   deleterious
+-   salubrious
 
 ##
 
@@ -816,11 +827,6 @@
 
 ##
 
--   venerate
--   vexation
-
-##
-
 -   bribe
 -   bride
 -   bridle
@@ -840,6 +846,8 @@
 
 -   deposit
 -   dispose
+    -   despise
+    -   despite
 -   disposition
 -   divert
 -   avert
@@ -873,9 +881,11 @@
 
 ##
 
+-   obstinate
+-   ostensible
 -   obviate
--   oblivious
 -   obliterate
+-   oblivious
 
 ##
 
@@ -941,6 +951,7 @@
 
 ##
 
+-   crunch
 -   crumble
 -   crass
 
@@ -948,3 +959,72 @@
 
 -   vessel
 -   venal
+
+##
+
+-   beak
+-   bleak
+-   breach
+-   bleach
+
+##
+
+-   entrance
+-   entrust
+
+##
+
+-   french
+-   frenzy
+
+##
+
+-   memorial
+-   memorandum
+
+##
+
+-   shaver
+-   shiver
+
+##
+
+-   nebulous
+-   nefarious
+
+##
+
+-   snap
+-   snag
+
+##
+
+-   enlighten
+-   eligible
+-   eligibility
+-   negligible
+
+##
+
+-   clinch
+-   cinch
+
+##
+
+-   cohesive
+-   coherent
+
+##
+
+-   parish
+-   perish
+
+##
+
+-   strike
+-   stroke
+
+##
+
+-   due
+-   dew
