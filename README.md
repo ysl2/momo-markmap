@@ -3,8 +3,11 @@
 ##
 
 -   accolade
+    -   extol
 -   accrete
+-   arcane
 -   austere
+-   ascetic
 
 ##
 
@@ -26,6 +29,8 @@
 -   inundate
 -   dole
 -   indolence
+-   dilatory
+-   dilate
 
 ##
 
@@ -68,13 +73,26 @@
 -   distress
     -   dismiss
     -   demise
+-   dispute
+    -   repel
+    -   repellent
+    -   reveal
+    -   revel
+    -   rival
+-   disperse
+    -   disseminate
+        -   seminal
+    -   diffract
 -   discourse
--   course
+    -   course
 
 ##
 
 -   submissive
 -   subordinate
+-   subsistence
+-   surveillance
+-   survival
 
 ##
 
@@ -88,13 +106,8 @@
 
 ##
 
--   repel
--   dispute
-
-##
-
--   abominate
 -   abolition
+-   abominate
 -   aversion
 -   avaricious
 -   cupidity
@@ -179,6 +192,10 @@
 -   gawky
 -   untoward
 -   toward
+-   ward
+-   wayward
+-   slipshod
+-   perfunctory
 -   tow
 
 ##
@@ -240,9 +257,12 @@
 ##
 
 -   conversion
--   convent
+-   convene
 -   convention
 -   conviction
+-   convict
+-   convert
+-   covertly
 -   conservation
 
 ##
@@ -297,14 +317,15 @@
 
 ##
 
+-   colossal
 -   cloying
 -   cosset
 
 ##
 
--   solitude
 -   solicit
 -   solicitous
+-   solitude
 -   solidary
 -   solidarity
 
@@ -325,11 +346,6 @@
 -   felicitous
     -   felicity
     -   facility
-
-##
-
--   passage
--   presage
 
 ##
 
@@ -374,6 +390,8 @@
 
 ##
 
+-   gloat
+-   goat
 -   goal
 -   gaol
 -   prison
@@ -555,6 +573,8 @@
 
 -   rapport
 -   rapprochement
+-   approach
+-   encroach
 
 ##
 
@@ -584,12 +604,6 @@
 
 -   achromatic
 -   anachronistic
-
-##
-
--   seminal
--   inseminate
--   disseminate
 
 ##
 
@@ -733,6 +747,7 @@
 
 -   tact
     -   tactile
+    -   tactless
 -   trek
 -   tuck
 -   tack
@@ -883,6 +898,7 @@
 
 -   obstinate
 -   ostensible
+-   oscillate
 -   obviate
 -   obliterate
 -   oblivious
@@ -931,12 +947,6 @@
 
 -   hoary
 -   hoax
-
-##
-
--   survival
--   subsistence
--   surveillance
 
 ##
 
@@ -991,6 +1001,7 @@
 
 -   nebulous
 -   nefarious
+-   malodorous
 
 ##
 
@@ -1028,3 +1039,96 @@
 
 -   due
 -   dew
+
+##
+
+-   grenade
+-   grande
+
+##
+
+-   toll
+-   toil
+
+##
+
+-   sanctimonious
+-   sanctuary
+
+##
+
+-   stomach
+-   stomatology
+
+##
+
+-   logic
+-   logistic
+
+##
+
+-   fund
+-   refund
+
+##
+
+-   weary
+-   wary
+
+##
+
+-   torment
+-   tournament
+
+##
+
+-   luna
+-   lunatic
+
+##
+
+-   violent
+-   violet
+-   velvet
+
+##
+
+-   prolific
+-   proliferate
+
+##
+
+-   passage
+-   presage
+-   prescient
+-   preservative
+
+##
+
+-   accent
+-   accentuate
+
+##
+
+-   expose
+-   expurgate
+-   extrapolate
+-   expostulate
+
+##
+
+-   cogent
+-   exigent
+-   chagrin
+-   chic
+
+##
+
+-   drudge
+-   grudge
+-   trudge
+
+##
+
+-   ween
+-   overweening
