@@ -4,9 +4,16 @@
 
 -   accolade
     -   extol
+-   accuse
 -   accrete
 -   arcane
 -   austere
+-   allure
+    -   lure
+    -   lull
+    -   lush
+    -   lurk
+-   allude
 -   ascetic
 
 ##
@@ -31,6 +38,7 @@
 -   indolence
 -   dilatory
 -   dilate
+-   dilettante
 
 ##
 
@@ -56,13 +64,6 @@
 
 ##
 
--   lull
--   lush
--   lure
--   lurk
-
-##
-
 -   captive
 -   captain
 -   caption
@@ -72,13 +73,11 @@
 -   stress
 -   distress
     -   dismiss
-    -   demise
--   dispute
-    -   repel
-    -   repellent
-    -   reveal
-    -   revel
-    -   rival
+        -   demise
+        -   decease
+            -   cease
+        -   disease
+        -   dispute
 -   disperse
     -   disseminate
         -   seminal
@@ -98,6 +97,8 @@
 
 -   concoct
 -   concord
+-   cork
+-   coax
     -   consilience
     -   reconcile
 -   cortical
@@ -174,6 +175,8 @@
 -   tepid
 -   turgid
 -   turtle
+-   topple
+-   cripple
 
 ##
 
@@ -190,6 +193,8 @@
 
 -   tawdry
 -   gawky
+    -   clumsy
+        -   calamity
 -   untoward
 -   toward
 -   ward
@@ -289,6 +294,7 @@
     -   dare
 -   empirical
 -   imperative
+    -   impertinent
     -   impudent
         -   temerity
         -   timidity
@@ -325,6 +331,7 @@
 
 -   solicit
 -   solicitous
+    -   solace
 -   solitude
 -   solidary
 -   solidarity
@@ -337,6 +344,7 @@
 -   gratitude
     -   gratify
     -   altitude
+        -   altimetry
     -   latitude
 -   gratuitous
 -   fortuitous
@@ -354,12 +362,14 @@
     -   spire
     -   respire
     -   respiration
+    -   perspicacious
 -   poignant
 -   trenchant
 -   merchant
 
 ##
 
+-   procession
 -   recession
 -   stagnant
 -   stalemate
@@ -386,6 +396,13 @@
 ##
 
 -   redolent
+    -   dolorous
+        -   lament
+        -   lugubrious
+        -   lunatic
+        -   luna
+    -   dolor
+    -   dollar
 -   redundancy
 
 ##
@@ -614,6 +631,7 @@
     -   transition
     -   transitional
     -   transitory
+-   transference
 
 ##
 
@@ -704,6 +722,7 @@
 
 -   ambient
 -   ancillary
+-   auxiliary
 
 ##
 
@@ -969,6 +988,8 @@
 
 -   vessel
 -   venal
+-   verve
+-   verse
 
 ##
 
@@ -991,6 +1012,7 @@
 
 -   memorial
 -   memorandum
+-   referendum
 
 ##
 
@@ -1059,6 +1081,8 @@
 
 -   stomach
 -   stomatology
+-   orthography
+-   orthodontics
 
 ##
 
@@ -1079,11 +1103,6 @@
 
 -   torment
 -   tournament
-
-##
-
--   luna
--   lunatic
 
 ##
 
@@ -1132,3 +1151,175 @@
 
 -   ween
 -   overweening
+
+##
+
+-   quibble
+-   marble
+-   rubble
+-   pebble
+-   peddle
+
+##
+
+-   gossamer
+-   glossary
+-   grocery
+-   glacier
+-   sensuous
+
+##
+
+-   draw
+-   drawer
+
+##
+
+-   perfume
+-   presume
+
+##
+
+-   juxtapose
+-   jeopardize
+-   juvenile
+
+##
+
+-   temple
+-   temporal
+    -   secular
+-   temporary
+
+##
+
+-   credible
+-   creditable
+
+##
+
+-   frenzy
+-   finicky
+
+##
+
+-   incident
+-   incidence
+
+##
+
+-   praise
+-   prise
+-   comprise
+
+##
+
+-   cosmos
+-   cosmetic
+-   makeup
+
+##
+
+-   block
+-   blockade
+
+##
+
+-   intent
+-   intention
+
+##
+
+-   veracious
+-   voracious
+
+##
+
+-   radioactive
+-   retroactive
+
+##
+
+-   indifferent
+-   differentiate
+
+##
+
+-   digest
+-   digestion
+
+##
+
+-   immune
+-   immense
+-   immerse
+
+##
+
+-   physiology
+-   psychology
+-   psychiatry
+
+##
+
+-   indict
+-   impart
+-   implicit
+-   induct
+-   induction
+
+##
+
+-   outcast
+    -   repel
+        -   repellent
+        -   reveal
+        -   revel
+        -   rival
+    -   expel
+    -   exile
+    -   eviction
+    -   deport
+-   outcome
+-   overcome
+
+##
+
+-   snare
+-   sneeze
+-   sneer
+
+##
+
+-   egg
+-   ebb
+-   odd
+
+##
+
+-   deprecate
+-   depreciate
+-   decrepitude
+
+##
+
+-   paraphernalia
+-   phlegmatic
+-   peripheral
+
+##
+
+-   wardrobe
+-   warble
+-   verbal
+
+##
+
+-   aftermath
+-   polymath
+-   erudite
+
+##
+
+-   comprehend
+-   apprehend
