@@ -59,6 +59,15 @@
 -   prosaic
 -   prophetic
 -   prophylactic
+    -   polytechnic
+    -   polemical
+    -   polymath
+        -   erudite
+        -   aftermath
+-   peripheral
+    -   paraphernalia
+    -   phlegmatic
+-   peripatetic
 -   prostrate
 -   procurement
 
@@ -242,6 +251,7 @@
 -   self-righteous
 -   self-effacing
 -   self-abasement
+-   self-perpetuating
 
 ##
 
@@ -483,6 +493,9 @@
 
 -   fidgety
 -   fidelity
+-   fatigue
+-   weary
+-   wary
 
 ##
 
@@ -644,6 +657,8 @@
 -   conspire
 -   conspicuous
 -   ambiguous
+-   ambitious
+-   amplitude
 -   ambivalent
 -   aberration
 -   abbreviate
@@ -816,6 +831,7 @@
 -   delegate
 -   deleterious
 -   salubrious
+-   salute
 
 ##
 
@@ -891,6 +907,19 @@
 -   literacy
     -   literate
     -   illiterate
+
+##
+
+-   illiterate
+
+    -   literate
+    -   obliterate
+        -   oblivious
+        -   obstinate
+        -   ostensible
+        -   oscillate
+        -   obviate
+
 -   literal
     -   literally
 -   literary
@@ -912,15 +941,6 @@
 
 -   conscious
 -   conscientious
-
-##
-
--   obstinate
--   ostensible
--   oscillate
--   obviate
--   obliterate
--   oblivious
 
 ##
 
@@ -1051,6 +1071,8 @@
 
 -   parish
 -   perish
+-   priest
+-   pride
 
 ##
 
@@ -1093,11 +1115,6 @@
 
 -   fund
 -   refund
-
-##
-
--   weary
--   wary
 
 ##
 
@@ -1303,23 +1320,86 @@
 
 ##
 
--   paraphernalia
--   phlegmatic
--   peripheral
-
-##
-
 -   wardrobe
 -   warble
 -   verbal
 
 ##
 
--   aftermath
--   polymath
--   erudite
+-   comprehend
+-   apprehend
 
 ##
 
--   comprehend
--   apprehend
+-   passionate
+-   compassionate
+
+##
+
+-   rim
+-   rib
+-   rip
+-   rig
+
+##
+
+-   pilgrim
+-   plagiarism
+
+##
+
+-   swine
+-   swindle
+
+##
+
+-   creationism
+-   discretionary
+
+##
+
+-   ecstasy
+-   eclectic
+
+##
+
+-   showery
+-   shoddy
+
+##
+
+-   verisimilitude
+-   vicissitude
+
+##
+
+-   defy
+-   defiant
+
+##
+
+-   sanitary
+-   sanctuary
+-   sanity
+-   seamy
+-   grimy
+
+##
+
+-   elusive
+-   effusive
+
+##
+
+-   retaliate
+-   renegade
+
+##
+
+-   strenuous
+-   extraneous
+
+##
+
+-   accusation
+-   acquisition
