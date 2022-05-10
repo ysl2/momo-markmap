@@ -70,6 +70,8 @@
 -   peripatetic
 -   prostrate
 -   procurement
+    -   prevention
+    -   precaution
 
 ##
 
@@ -310,11 +312,28 @@
         -   timidity
         -   tedious
             -   fastidious
+            -   felicitous
+                -   felicity
+                -   facility
                 -   finicky
+            -   fortuitous
+                -   fortune
+            -   gratuitous
+                -   gratitude
+                    -   gratify
+                    -   altitude
+                        -   altimetry
+                    -   latitude
+            -   garrulous
+                -   granular
+            -   gregarious
+                -   germane
+                -   gramme
             -   supercilious
                 -   spurious
                 -   superfluous
             -   punctilious
+                -   pugnacious
                 -   punctual
                 -   punctuation
                 -   acupuncture
@@ -322,14 +341,14 @@
                 -   prodigious
                 -   indigenous
                     -   indignation
-                    -   ingenious
-                    -   ingenuous
-                -   propitious
-                    -   propitiate
-                -   fealty
-                -   imprudent
-                -   pudency
-                -   pudendum
+                -   ingenious
+                -   ingenuous
+            -   propitious
+                -   propitiate
+            -   fealty
+            -   imprudent
+            -   pudency
+            -   pudendum
 
 ##
 
@@ -345,25 +364,6 @@
 -   solitude
 -   solidary
 -   solidarity
-
-##
-
--   gramme
--   germane
--   gregarious
--   gratitude
-    -   gratify
-    -   altitude
-        -   altimetry
-    -   latitude
--   gratuitous
--   fortuitous
-    -   fortune
--   garrulous
-    -   granular
--   felicitous
-    -   felicity
-    -   facility
 
 ##
 
@@ -408,6 +408,8 @@
 -   redolent
     -   dolorous
         -   lament
+            -   latent
+            -   lateral
         -   lugubrious
         -   lunatic
         -   luna
@@ -516,6 +518,7 @@
 
 -   pecunious
 -   impecunious
+-   pecuniary
 
 ##
 
@@ -615,11 +618,6 @@
 
 ##
 
--   desolate
--   obsolete
-
-##
-
 -   remiss
 -   remit
     -   unremitting
@@ -654,7 +652,15 @@
 ##
 
 -   contrive
+-   contrite
+    -   cogent
+    -   exigent
+    -   chagrin
+    -   chic
 -   conspire
+-   contrast
+    -   contract
+    -   contractive
 -   conspicuous
 -   ambiguous
 -   ambitious
@@ -789,6 +795,7 @@
 
 ##
 
+-   oppose
 -   opposition
 -   oppression
 
@@ -801,12 +808,6 @@
 
 -   cost
 -   coast
-
-##
-
--   lament
--   latent
--   lateral
 
 ##
 
@@ -911,15 +912,16 @@
 ##
 
 -   illiterate
-
-    -   literate
-    -   obliterate
-        -   oblivious
-        -   obstinate
-        -   ostensible
-        -   oscillate
-        -   obviate
-
+-   literate
+-   obliterate
+    -   obstinate
+        -   stick
+    -   obviate
+    -   oblivious
+    -   ostensible
+    -   obsolete
+        -   desolate
+    -   oscillate
 -   literal
     -   literally
 -   literary
@@ -927,9 +929,12 @@
 
 ##
 
--   tribe
--   diatribe
+-   anathema
+-   anemia
+-   dementia
 -   diabetes
+    -   diatribe
+    -   tribe
 
 ##
 
@@ -1022,6 +1027,7 @@
 
 -   entrance
 -   entrust
+-   trust
 
 ##
 
@@ -1150,13 +1156,6 @@
 -   expurgate
 -   extrapolate
 -   expostulate
-
-##
-
--   cogent
--   exigent
--   chagrin
--   chic
 
 ##
 
@@ -1290,6 +1289,8 @@
 -   outcast
     -   repel
         -   repellent
+        -   repetitious
+        -   repeat
         -   reveal
         -   revel
         -   rival
@@ -1403,3 +1404,21 @@
 
 -   accusation
 -   acquisition
+
+##
+
+-   conjugate
+-   conjecture
+-   conjure
+
+##
+
+-   rational
+-   rationale
+
+##
+
+-   peach
+-   impeach
+-   impeachable
+-   unimpeachable
